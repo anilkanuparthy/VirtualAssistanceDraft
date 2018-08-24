@@ -1,0 +1,26 @@
+TestCasejsondata start
+MINFO: WelcomeScreen: Verifying 'Start Chat_VA_Chat_Bubble2_Response3' text 
+MINFO: WelcomeScreen: Verifying 'Start Chat_VA_Chat_Bubble2_Response4' text 
+MINFO: WelcomeScreen: Verifying 'Start Chat_VA_Chat_Bubble2_Response1' text 
+2TestCasetest1_AC1_EnterNameOnWelcomeScreen start
+IStartTestCase: WelcomeScreen: Starting welcomeObjectsDisplayed_Testcase
+!Welcome screen Header : Welcome
+3INFO: WelcomeScreen: Verifying Welcome page title
+GWelcome screen Header : To get started, please enter your name below:
+4INFO: WelcomeScreen: Verifying Welcome page header
+8INFO: WelcomeScreen: Entering the text in the chat box
+6INFO: WelcomeScreen: Verifying the Start chat button
+EEndTestCase: WelcomeScreen: Ending welcomeObjectsDisplayed_testcase
+'TestCasetest2_Ac2_WelcomeScreen start
+IStartTestCase: WelcomeScreen: Starting welcomeObjectsDisplayed_testcase
+Bubble0 text: o hai
+5INFO: WelcomeScreen: Verifying Bubble0 is displayed
+ Bubble1 text: : o hai yourself
+5INFO: WelcomeScreen: Verifying Bubble1 is displayed
+&INFO: WelcomeScreen: Initiating chat
+3INFO: WelcomeScreen: Sending text to the chat box
+1Bubble3 text: stub reply 1: just a text message
+5INFO: WelcomeScreen: Verifying Bubble3 is displayed
+CBubble4 text: stub reply 2: with one picture and 1 quick response
+5INFO: WelcomeScreen: Verifying Bubble4 is displayed
+8EndTestCase: WelcomeScreen: End of test case Test2_Ac2

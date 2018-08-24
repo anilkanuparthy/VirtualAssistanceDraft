@@ -1,0 +1,164 @@
+16:24:47.365 [main] INFO  Logs - Log4j successfully configured
+16:24:53.249 [main] INFO  Logs - Browser Invoked
+16:24:53.249 [main] INFO  Logs - Excel sheet has opened
+16:24:54.026 [main] INFO  Logs - Workbook has opened
+16:24:54.028 [main] INFO  Logs - Excel sheet has opened
+16:24:54.072 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_Testcase************************
+16:24:54.491 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:24:54.493 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_testcase************************
+16:24:55.336 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:24:55.337 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test3_Ac3 started************************
+16:24:55.338 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:24:55.339 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test4_Ac3 started************************
+16:24:55.339 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:24:55.341 [main] INFO  Logs - Tear down
+16:24:56.314 [main] INFO  Logs - Driver closed
+16:24:56.334 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+16:24:56.336 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+16:24:56.338 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:24:56.339 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:24:56.339 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:35:12.664 [main] INFO  Logs - Log4j successfully configured
+16:35:23.007 [main] INFO  Logs - Browser Invoked
+16:35:23.007 [main] INFO  Logs - Excel sheet has opened
+16:35:23.944 [main] INFO  Logs - Workbook has opened
+16:35:23.946 [main] INFO  Logs - Excel sheet has opened
+16:35:24.015 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_Testcase************************
+16:35:24.081 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Welcome page title
+16:35:24.113 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Welcome page header
+16:35:24.196 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Entering the text in the chat box
+16:35:24.498 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying the Start chat button
+16:35:24.498 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:35:24.503 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_testcase************************
+16:35:24.563 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble0 is displayed
+16:35:24.666 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble1 is displayed
+16:35:24.718 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Initiating chat
+16:35:24.758 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Sending text to the chat box
+16:35:25.062 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble3 is displayed
+16:35:25.209 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble4 is displayed
+16:35:25.378 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:35:25.380 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test3_Ac3 started************************
+16:35:25.380 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:35:25.382 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test4_Ac3 started************************
+16:35:25.382 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:35:25.384 [main] INFO  Logs - Tear down
+16:35:26.310 [main] INFO  Logs - Driver closed
+16:35:26.331 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+16:35:26.332 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+16:35:26.334 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:35:26.336 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:35:26.339 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:54:44.400 [main] INFO  Logs - Log4j successfully configured
+16:54:51.361 [main] INFO  Logs - Browser Invoked
+16:54:51.362 [main] INFO  Logs - Excel sheet has opened
+16:54:52.260 [main] INFO  Logs - Workbook has opened
+16:54:52.262 [main] INFO  Logs - Excel sheet has opened
+16:54:52.316 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_Testcase************************
+16:54:52.369 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Welcome page title
+16:54:52.401 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Welcome page header
+16:54:52.447 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Entering the text in the chat box
+16:54:52.744 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying the Start chat button
+16:54:52.745 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:54:52.750 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_testcase************************
+16:54:52.799 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble0 is displayed
+16:54:52.898 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble1 is displayed
+16:54:52.950 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Initiating chat
+16:54:52.992 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Sending text to the chat box
+16:54:53.317 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble3 is displayed
+16:54:53.420 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble4 is displayed
+16:54:53.544 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:54:53.545 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test3_Ac3 started************************
+16:54:53.545 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:54:53.546 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test4_Ac3 started************************
+16:54:53.546 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+16:54:53.548 [main] INFO  Logs - Tear down
+16:54:54.508 [main] INFO  Logs - Driver closed
+16:54:54.529 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+16:54:54.530 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+16:54:54.533 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:54:54.534 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:54:54.534 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:16:19.703 [main] INFO  Logs - Log4j successfully configured
+17:16:25.783 [main] INFO  Logs - Browser Invoked
+17:16:25.783 [main] INFO  Logs - Excel sheet has opened
+17:16:26.715 [main] INFO  Logs - Workbook has opened
+17:16:26.717 [main] INFO  Logs - Excel sheet has opened
+17:16:26.753 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_Testcase************************
+17:16:26.814 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Welcome page title
+17:16:26.850 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Welcome page header
+17:16:26.902 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Entering the text in the chat box
+17:16:27.193 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying the Start chat button
+17:16:27.194 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+17:16:27.198 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_testcase************************
+17:16:27.236 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble0 is displayed
+17:16:27.346 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble1 is displayed
+17:16:27.398 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Initiating chat
+17:16:27.438 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Sending text to the chat box
+17:16:27.733 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble3 is displayed
+17:16:27.921 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble4 is displayed
+17:16:28.039 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+17:16:28.040 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test3_Ac3 started************************
+17:16:28.040 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+17:16:28.041 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test4_Ac3 started************************
+17:16:28.041 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+17:16:28.042 [main] INFO  Logs - Tear down
+17:16:28.974 [main] INFO  Logs - Driver closed
+17:16:28.997 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+17:16:28.998 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+17:16:29.000 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:16:29.002 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:16:29.002 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:55:45.141 [main] INFO  Logs - Log4j successfully configured
+17:55:51.213 [main] INFO  Logs - Browser Invoked
+17:55:51.213 [main] INFO  Logs - Excel sheet has opened
+17:55:52.145 [main] INFO  Logs - Workbook has opened
+17:55:52.147 [main] INFO  Logs - Excel sheet has opened
+17:55:52.189 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_Testcase************************
+17:55:52.238 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Welcome page title
+17:55:52.266 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Welcome page header
+17:55:52.309 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Entering the text in the chat box
+17:55:52.602 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying the Start chat button
+17:55:52.602 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+17:55:52.608 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Starting welcomeObjectsDisplayed_testcase************************
+17:55:52.670 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble0 is displayed
+17:55:52.777 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Verifying Bubble1 is displayed
+17:55:52.832 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Initiating chat
+17:55:52.875 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Sending text to the chat box
+17:56:03.209 [TestNG-test=WelcomeScreenChrome-1] ERROR Logs - Test case [TestResult name=test2_Ac2_WelcomeScreen status=FAILURE method=WelcomeScreen.test2_Ac2_WelcomeScreen()[pri:0, instance:WelcomeScreen@57ea113a] output={null}]has failed
+17:56:03.210 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - Capturing the Screenshot
+17:56:03.212 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test3_Ac3 started************************
+17:56:03.212 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+17:56:03.214 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - **************Testcase test4_Ac3 started************************
+17:56:03.214 [TestNG-test=WelcomeScreenChrome-1] INFO  Logs - ****************-E---N---D-************************
+17:56:03.216 [main] INFO  Logs - Tear down
+17:56:04.064 [main] INFO  Logs - Driver closed
+17:56:04.086 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+17:56:04.087 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+17:56:04.089 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:04.092 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:04.092 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:48:49.186 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+15:48:49.199 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+15:48:49.201 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:48:49.207 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:48:49.207 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:51:37.155 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+15:51:37.172 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+15:51:37.175 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:51:37.176 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:51:37.177 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:53:17.637 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+15:53:17.644 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+15:53:17.648 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:53:17.650 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:53:17.650 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:00:26.357 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+16:00:26.363 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+16:00:26.366 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:00:26.367 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:00:26.368 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:04:57.130 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+16:04:57.140 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+16:04:57.143 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:04:57.145 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:04:57.145 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Anil%20Kumar/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -1,0 +1,2272 @@
+[
+  {
+    "UniqueKey": "",
+    "Intent": "Start Chat",
+    "UniqueId": "VA_Chat_Bubble1",
+    "Type": "Bubble",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start_Chat_VA_Chat_Bubble1_Response1",
+    "Intent": "Start_Chat",
+    "UniqueId": "VA_Chat_Bubble1_Response1",
+    "Type": "Message",
+    "en": "Hi, I’m <Name>, Rogers virtual assistant. \\\\nWhat can I help you with today? Just ask me a short question or choose one of the options below:",
+    "fr": "Bonjour, je m’appelle <Name>, votre assistant virtuel de Rogers. \nQue puis-je faire pour vous aujourd’hui? Posez-moi une courte question ou choisissez parmi les options suivantes : \n",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start Chat_VA_Chat_Bubble1_Response2",
+    "Intent": "Start Chat",
+    "UniqueId": "VA_Chat_Bubble1_Response2",
+    "Type": "Option",
+    "en": "Billing & Accounts",
+    "fr": "Facturation et comptes",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start Chat_VA_Chat_Bubble1_Response3",
+    "Intent": "Start Chat",
+    "UniqueId": "VA_Chat_Bubble1_Response3",
+    "Type": "Option",
+    "en": "Products & Services",
+    "fr": "Produits et services",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start Chat_VA_Chat_Bubble1_Response4",
+    "Intent": "Start Chat",
+    "UniqueId": "VA_Chat_Bubble1_Response4",
+    "Type": "Option",
+    "en": "Troubleshooting & Support",
+    "fr": "Dépannage et soutien",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start Chat_VA_Chat_Bubble2",
+    "Intent": "Billing_&_Accounts",
+    "UniqueId": "VA_Chat_Bubble2",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start_Chat_VA_Chat_Bubble2_Response1",
+    "Intent": "Billing_&_Accounts",
+    "UniqueId": "VA_Chat_Bubble2_Response1",
+    "Type": "Message",
+    "en": "Ok, you have a question about billing or your account. There are a few options to choose from:",
+    "fr": "Vous avez une question au sujet de la facturation ou de votre compte. Choisissez parmi les options suivantes : ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start Chat_VA_Chat_Bubble2_Response2",
+    "Intent": "Billing_&_Accounts",
+    "UniqueId": "VA_Chat_Bubble2_Response2",
+    "Type": "Option",
+    "en": "Billing & Payments",
+    "fr": "Facturation et paiements",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start Chat_VA_Chat_Bubble2_Response3",
+    "Intent": "Billing_&_Accounts",
+    "UniqueId": "VA_Chat_Bubble2_Response3",
+    "Type": "Option",
+    "en": "Accounts & Balances",
+    "fr": "Compte et soldes de compte",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Start Chat_VA_Chat_Bubble2_Response4",
+    "Intent": "Billing_&_Accounts",
+    "UniqueId": "VA_Chat_Bubble2_Response4",
+    "Type": "Option",
+    "en": "Manage Plan & Usage",
+    "fr": "Gérer mon forfait et mon utilisation",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_&_Accounts_VA_Chat_Bubble3",
+    "Intent": "Billing & Payments",
+    "UniqueId": "VA_Chat_Bubble3",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_&_Accounts_VA_Chat_Bubble3_Response1",
+    "Intent": "Billing & Payments",
+    "UniqueId": "VA_Chat_Bubble3_Response1",
+    "Type": "",
+    "en": "No problem. Next, choose one of the billing or payment categories.",
+    "fr": "Génial! Vous pouvez maintenant choisir l’une des catégories de facturation ou de paiements suivantes. ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_&_Accounts_VA_Chat_Bubble3_Response2",
+    "Intent": "Billing & Payments",
+    "UniqueId": "VA_Chat_Bubble3_Response2",
+    "Type": "Option",
+    "en": "Billing Options",
+    "fr": "Options de facturation",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_&_Accounts_VA_Chat_Bubble3_Response3",
+    "Intent": "Billing & Payments",
+    "UniqueId": "VA_Chat_Bubble3_Response3",
+    "Type": "Option",
+    "en": "Billing Details",
+    "fr": "Détails de la facture",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_&_Accounts_VA_Chat_Bubble3_Response4",
+    "Intent": "Billing & Payments",
+    "UniqueId": "VA_Chat_Bubble3_Response4",
+    "Type": "Option",
+    "en": "Payment Options",
+    "fr": "Options de paiement",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_VA_Chat_Bubble3_Response5",
+    "Intent": "Billing & Payments",
+    "UniqueId": "VA_Chat_Bubble3_Response5",
+    "Type": "Option",
+    "en": "Payment Inquiries",
+    "fr": "Questions générales sur les paiements",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Options_VA_Chat_Bubble4",
+    "Intent": "Billing_Options",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Options_VA_Chat_Bubble4_Response1",
+    "Intent": "Billing_Options",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "",
+    "en": "Would you like to know how to view your bill or how to sign up for online billing?",
+    "fr": "Aimeriez-vous savoir comment consulter votre facture ou bien même comment vous abonner à la facture en ligne?",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Options_VA_Chat_Bubble4_Response2",
+    "Intent": "Billing_Options",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "View Bill",
+    "fr": "Consulter ma facture",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Options_VA_Chat_Bubble4_Response3",
+    "Intent": "Billing_Options",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Enrol in Online Billing",
+    "fr": "M’inscrire à la facture en ligne",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "View_Bill_VA_Chat_Bubble5",
+    "Intent": "View_Bill",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "View_Bill_VA_Chat_Bubble5_Response1",
+    "Intent": "View_Bill",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "1. Sign in to MyRogers. \n2. Select the Billing & Payments tab. \n3. Your most recent bill is displayed beneath the Your Bill header.",
+    "fr": "1. Ouvrez une session dans MonRogers.\n2. Sélectionnez l’onglet Facturation et paiement.\n3. Votre plus récente facture est affichée sous l’en-tête Votre facture.",
+    "Link Value en": "https://www.rogers.com/web/totes/#/viewbill",
+    "Link Value fr": "https://www.rogers.com/web/totes/#/viewbill"
+  },
+  {
+    "UniqueKey": "View_Bill_VA_Chat_Bubble5_Response2",
+    "Intent": "View_Bill",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "View Bill",
+    "fr": "Voir facture",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Enrol_in_Online_Billing_VA_Chat_Bubble5",
+    "Intent": "Enrol_in_Online_Billing",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Enrol_in_Online_Billing_VA_Chat_Bubble5_Response1",
+    "Intent": "Enrol_in_Online_Billing",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Enrol_in_Online_Billing",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Details_VA_Chat_Bubble4",
+    "Intent": "Billing_Details",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Details_VA_Chat_Bubble4_Response1",
+    "Intent": "Billing_Details",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Message",
+    "en": "I can tell you how to view your account balance or change your billing info, or are you missing a paper bill?",
+    "fr": "Je peux aussi vous montrer comment consulter le solde de votre compte ou même comment changer vos renseignements de facturation. Est-ce qu’il vous manque une facture papier? .  ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Details_VA_Chat_Bubble4_Response2",
+    "Intent": "Billing_Details",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "View Account Balance",
+    "fr": "Consulter le solde de mon compte",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Details_VA_Chat_Bubble4_Response3",
+    "Intent": "Billing_Details",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Change Billing Information",
+    "fr": "Changer mes renseignements de facturation",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Details_VA_Chat_Bubble4_Response3",
+    "Intent": "Billing_Details",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Help Viewing Online Bill",
+    "fr": "Aidez-moi à consulter ma facture en ligne",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Billing_Details_VA_Chat_Bubble4_Response4",
+    "Intent": "Billing_Details",
+    "UniqueId": "VA_Chat_Bubble4_Response4",
+    "Type": "Option",
+    "en": "Missing Paper Bill",
+    "fr": "Est-ce qu’il vous manque une facture papier?",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "View_Account_Balance_VA_Chat_Bubble5",
+    "Intent": "View_Account_Balance",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "View_Account_Balance_VA_Chat_Bubble5_Response1",
+    "Intent": "View_Account_Balance",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "Sign in to your MyRogers account. Your balance can be found on the Account Overview banner.",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View_Account_Balance",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "View Account Balance",
+    "fr": "Consulter le solde de mon compte",
+    "Link Value en": "www.rogers.com/signin",
+    "Link Value fr": "www.rogers.com/signin"
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Change_Billing_Information_VA_Chat_Bubble5",
+    "Intent": "Change_Billing_Information",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Change_Billing_Information_VA_Chat_Bubble5_Response1",
+    "Intent": "Change_Billing_Information",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "1. Sign in to MyRogers.\n2. Select Profile & Settings\n3. In the Account section, select Edit next to Billing.\n4. Update your billing address or billing type.\n5. Select Save Changes",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change_Billing_Information",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "Change Billing Information",
+    "fr": "Changer mes renseignements de facturation",
+    "Link Value en": "www.rogers.com/signin",
+    "Link Value fr": "www.rogers.com/signin"
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Help_Viewing_Online_Bill_VA_Chat_Bubble5",
+    "Intent": "Help_Viewing_Online_Bill",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Help_Viewing_Online_Bill_VA_Chat_Bubble5_Response1",
+    "Intent": "Help_Viewing_Online_Bill",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "1. Try switching browsers.\n2. Try clearing the cookies and cache on your browser.\n3. Try rebooting your device and then sign in to MyRogers again.",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Help_Viewing_Online_Bill",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Missing_Paper_Bill_VA_Chat_Bubble5",
+    "Intent": "Missing_Paper_Bill",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Missing_Paper_Bill_VA_Chat_Bubble5_Response1",
+    "Intent": "Missing_Paper_Bill",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "Paper bills typically take 7-10 days to arrive after the bill date. If it's been more than 10 days and your bill hasn't arrived, please let us know.",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Missing_Paper_Bill",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "_",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Payment_Options_VA_Chat_Bubble4",
+    "Intent": "Payment_Options",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Payment_Options_VA_Chat_Bubble4_Response1",
+    "Intent": "Payment_Options",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Message",
+    "en": "You can either pay online right now, or set up pre-authorized payments. If your payment is late, I can help with that, too.",
+    "fr": "Vous pouvez faire un paiement en ligne dès maintenant ou opter pour des paiements préautorisés. Je peux également vous aider si votre paiement est en retard. ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Payment_Options_VA_Chat_Bubble4_Response2",
+    "Intent": "Payment_Options",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "Pay Online",
+    "fr": "Effectuer un paiement en ligne",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Payment_Options_VA_Chat_Bubble4_Response3",
+    "Intent": "Payment_Options",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Set Up Pre-authorized Payment",
+    "fr": "Configurer mes paiements préautorisés",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Payment_Options_VA_Chat_Bubble4_Response3",
+    "Intent": "Payment_Options",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Arrange Payment ",
+    "fr": "Effectuer une entente de paiement",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "Payment_Options_VA_Chat_Bubble4_Response4",
+    "Intent": "Payment_Options",
+    "UniqueId": "VA_Chat_Bubble4_Response4",
+    "Type": "Option",
+    "en": "Change Payment Method",
+    "fr": "Changer le mode de paiement ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Pay_Online",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Pay_Online",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "The fastest and most convenient way to pay your bill is through MyRogers, where you can make one-time payments or set up automatic pre-authorized bill payments. \n\nReady to pay your bill? Tap the link below to sign in to MyRogers:",
+    "fr": "MonRogers constitue la façon la plus rapide et pratique pour payer votre facture. Vous pouvez y effectuer des paiements uniques ou configurer des paiements préautorisés.\n\nVous êtes prêt à payer votre facture? Sélectionnez le lien ci-dessous pour ouvrir une session dans MonRogers :",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Pay_Online",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "Pay Bill",
+    "fr": "Payer facture",
+    "Link Value en": "https://www.rogers.com/customer/support/article/how-to-make-a-payment",
+    "Link Value fr": "https://www.rogers.com/customer/support/article/how-to-make-a-payment"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Set Up Pre-authorized Payment",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Set Up Pre-authorized Payment",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "You can set up pre-authorized debit or credit payments through MyRogers.\n\nSelect the link below for detailed instructions on setting up pre-authorized bill payments:",
+    "fr": "Vous pouvez configurer des paiements préautorisés par carte de débit ou de crédit par l’entremise de MonRogers.\n\nSélectionnez le lien ci-dessous pour des instructions détaillées sur la configuration des paiements préautorisés : ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Set Up Pre-authorized Payment",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "More Details",
+    "fr": "Plus de détails",
+    "Link Value en": "https://www.rogers.com/customer/support/article/how-to-make-a-payment",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Arrange Payment",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Arrange Payment",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Arrange Payment",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Payment Method",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Payment Method",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Payment Method",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Payment Inquiries",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Payment Inquiries",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Message",
+    "en": "Check out your payment history, confirm that we received your last payment, or find out what to do if your payment is late.",
+    "fr": "Vous pouvez consulter l’historique de vos paiements, confirmer la réception de votre dernier paiement ou même savoir quoi faire dans le cas d’un paiement en retard. ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Payment Inquiries",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "View Payment History",
+    "fr": "Consulter l’historique de mes paiements",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Payment Inquiries",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Confirm a Payment",
+    "fr": "Confirmer un paiement",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Payment Inquiries",
+    "UniqueId": "VA_Chat_Bubble4_Response4",
+    "Type": "Option",
+    "en": "Late Payment",
+    "fr": "Confirmer un paiem",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Payment History",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Payment History",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Payment History",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Confirm a Payment",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Confirm a Payment",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Confirm a Payment",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Late Payment",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Late Payment",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "If you've missed a payment, you'll receive a Late Payment Charge on your next bill and your services may be suspended. \n\nSelect the link below for more information about missed or late payments:",
+    "fr": "Si vous manquez un paiement, des frais de paiement en retard seront portés à votre prochaine facture et il se peut que vos services soient suspendus.\n\nSélectionnez le lien ci-dessous pour obtenir de plus amples renseignements sur les paiements manqués ou en retard :",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Late Payment",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "More Details",
+    "fr": "Plus de détails",
+    "Link Value en": "https://www.rogers.com/customer/support/article/payment-issues",
+    "Link Value fr": "https://www.rogers.com/customer/support/article/payment-issues"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Accounts & Balances",
+    "UniqueId": "VA_Chat_Bubble3",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Accounts & Balances",
+    "UniqueId": "VA_Chat_Bubble3_Response1",
+    "Type": "Message",
+    "en": "Would you like to manage your account, learn more about sign in and registration, or check your account balance or device balance?",
+    "fr": "Aimeriez-vous gérer votre compte, savoir comment vous pouvez vous inscrire et ouvrir une session, consulter le solde de votre compte ou encore celui de votre appareil?",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Accounts & Balances",
+    "UniqueId": "VA_Chat_Bubble3_Response2",
+    "Type": "Option",
+    "en": "Manage Account",
+    "fr": "Gérer mon compte",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Accounts & Balances",
+    "UniqueId": "VA_Chat_Bubble3_Response3",
+    "Type": "Option",
+    "en": "Sign In & Registration",
+    "fr": "Ouverture de session et Inscription",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Accounts & Balances",
+    "UniqueId": "VA_Chat_Bubble3_Response4",
+    "Type": "Option",
+    "en": "Check Balances",
+    "fr": "Consulter mes soldes ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Account",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Account",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Option",
+    "en": "Change Account Information",
+    "fr": "Changer mes renseignements de compte",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Account",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "Change Phone Number",
+    "fr": "Changer mon numéro de téléphone",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Account",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Transfer Number",
+    "fr": "Transférer mon numéro",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Account Information",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Account Information",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Account Information",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Phone Number",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Phone Number",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "1. Sign in to MyRogers.\n2. Select Wireless (or Wireless Share Everything) under Usage & Services tab.\n3. Choose the line (if you're on a Share Everything plan).\n4. Select Change My Number under My Wireless Package section.\n\nOnce Change My Number is selected, you'll be directed to a Live Chat portal.",
+    "fr": "1. Accédez à MonRogers.\n2. Sélectionnez Sans-fil (ou Forfait sans-fil Partagez tout), sous l'onglet Utilisation et services.\n3. Choisissez la ligne (si vous avez un forfait Partagez tout).\n4. Sélectionnez Changer de numéro de téléphone sous Mon forfait des services sans-fil.\nSélectionnez Changer de numéro de téléphone et vous serez transféré au clavardage en direct.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Phone Number",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "More Details",
+    "fr": "Plus de détails",
+    "Link Value en": "https://www.rogers.com/customer/support/article/change-your-wireless-phone-number",
+    "Link Value fr": "https://www.rogers.com/customer/support/article/change-your-wireless-phone-number"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Transfer Number",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Transfer Number",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Transfer Number",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Sign in & Registration",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Sign in & Registration",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Message",
+    "en": "If you need help with registering for MyRogers or resetting your username or password, I’ve got you covered.",
+    "fr": "Ne vous en faites surtout pas! Je peux vous aider à vous inscrire à MonRogers, à réinitialiser votre nom d’utilisateur ou votre mot de passe",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Sign in & Registration",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "Reset Password",
+    "fr": "Réinitialiser mon mot de passe",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Sign in & Registration",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Register for MyRogers",
+    "fr": "M’inscrire à MonRogers",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Sign in & Registration",
+    "UniqueId": "VA_Chat_Bubble4_Response4",
+    "Type": "Option",
+    "en": "Forgot Username",
+    "fr": "J’ai oublié mon nom d’utilisateur",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Reset Password",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Reset Password",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Reset Password",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Register for MyRogers",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Register for MyRogers",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "1. Go to rogers.com.\n2. Select the Sign in button at the top of the home page.\n3. Enter the email address (or username) and password linked to your Rogers account. (If you're new to MyRogers, select the Register link to set up a profile.)\n4. Select Sign in.",
+    "fr": "1. Consultez rogers.com.\n2. Sélectionnez Ouvrir une session en haut de la page.\n3. Entrez l’adresse courriel (ou nom d’utilisateur) et le mot de passe de votre compte Rogers. (Si vous êtes un nouveau client, sélectionnez Inscription pour créer un profil.)\n4. Sélectionnez S’inscrire maintenant.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Register for MyRogers",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "Sign-in",
+    "fr": "Ouvrir une session",
+    "Link Value en": "www.rogers.com/signin",
+    "Link Value fr": "www.rogers.com/signin"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Forgot Username",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Forgot Username",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Forgot Username",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Check Balances",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "Consulter mes soldes ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Check Balances",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Message",
+    "en": "It's super easy to check your account balance, device balance, or even your balance if you're a prepaid customer.",
+    "fr": "Consultez le solde de votre compte postpayé ou prépayé ou encore celui de votre appareil, c’est simple comme tout!",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Check Balances",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "Account Balance",
+    "fr": "Solde de mon compte",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Check Balances",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Device Balance",
+    "fr": "Solde de mon appareil",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Check Balances",
+    "UniqueId": "VA_Chat_Bubble4_Response4",
+    "Type": "Option",
+    "en": "Prepaid Balance",
+    "fr": "Solde de mon compte prépayé",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Account Balance",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Account Balance",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "Sign in to your MyRogers account. Your balance can be found on the Account Overview banner.",
+    "fr": "Ouvrez une session dans votre compte MonRogers. Votre solde se trouve sous Aperçu du compte.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Account Balance",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "View Account Balance",
+    "fr": "Voir solde compte",
+    "Link Value en": "www.rogers.com/signin",
+    "Link Value fr": "www.rogers.com/signin"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Device Balance",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Device Balance",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "To view your current device balance, sign in to MyRogers and select the Usage & Services tab.",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Device Balance",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "More details",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Prepaid Balance",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Prepaid Balance",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Prepaid Balance",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Plan & Usage",
+    "UniqueId": "VA_Chat_Bubble3",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Plan & Usage",
+    "UniqueId": "VA_Chat_Bubble3_Response1",
+    "Type": "Message",
+    "en": "I can tell you how to check the details of your plan, change to a new plan, or check your usage so far this month.",
+    "fr": "Je peux vous aider à consulter les détails de votre forfait, à changer votre forfait ou bien même à vérifier votre utilisation mensuelle actuelle.  ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Plan & Usage",
+    "UniqueId": "VA_Chat_Bubble3_Response2",
+    "Type": "Option",
+    "en": "Change Plan",
+    "fr": "Changer mon forfait",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Plan & Usage",
+    "UniqueId": "VA_Chat_Bubble3_Response3",
+    "Type": "Option",
+    "en": "View Usage",
+    "fr": "Consulter mon utilisation",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Manage Plan & Usage",
+    "UniqueId": "VA_Chat_Bubble3_Response4",
+    "Type": "Option",
+    "en": "Plan Details",
+    "fr": "Détails de mon forfait",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Plan",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Plan",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Message",
+    "en": "Looking to switch plans? Select the service you'd like to change.",
+    "fr": "Est-ce que vous désirez changer votre forfait? Veuillez choisir les services que vous désirez modifier. ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Plan",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "Ignite TV",
+    "fr": "Télé Élan",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Plan",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Wireless",
+    "fr": "Sans-fil",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Plan",
+    "UniqueId": "VA_Chat_Bubble4_Response4",
+    "Type": "Option",
+    "en": "Home Internet",
+    "fr": "Internet résidentiel",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Change Plan",
+    "UniqueId": "VA_Chat_Bubble4_Response5",
+    "Type": "Option",
+    "en": "Home Phone",
+    "fr": "Téléphonie résidentielle",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Ignite TV",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Ignite TV",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Ignite TV",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Wireless",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Wireless",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "1. Sign in to MyRogers.\n2. Go to the Usage & Services tab and select Wireless Share Everything. \n3. Select Change Plan from the My Wireless Package section.\n4. Select your new plan and proceed to the checkout.",
+    "fr": "1. Ouvrez une session dans MonRogers.\n2. Accédez à l’onglet Utilisation et services et sélectionnez Forfait sans-fil Partagez tout. \n3. Sélectionnez Changer de forfait à partir de la section Mon forfait des services sans-fil.\n4. Sélectionnez votre nouveau forfait, puis passez à la caisse.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Wireless",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "Change Plan",
+    "fr": "Changer de forfait",
+    "Link Value en": "https://www.rogers.com/web/totes/#/shareEverything",
+    "Link Value fr": "https://www.rogers.com/web/totes/#/shareEverything"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Phone",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Phone",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Phone",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Usage",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Usage",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Message",
+    "en": "Tell me what type of usage you'd like to see, and I can show you how to view it.",
+    "fr": "Pouvez-vous m’en dire plus sur l’utilisation que vous désirez voir? Je pourrais vous aider à la consulter. ",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Usage",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "Data",
+    "fr": "Données",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Usage",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Talk",
+    "fr": "Appels",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Usage",
+    "UniqueId": "VA_Chat_Bubble4_Response4",
+    "Type": "Option",
+    "en": "Text",
+    "fr": "Textos",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "View Usage",
+    "UniqueId": "VA_Chat_Bubble4_Response5",
+    "Type": "Option",
+    "en": "Home Internet",
+    "fr": "Internet résidentiel",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Data",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Data",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "To check your data usage, sign in to MyRogers, select the Usage & Services tab. Your usage will be at the top of the dashboard. ",
+    "fr": "Pour consulter votre utilisation de données, ouvrez une session dans MonRogers, puis sélectionnez l’onglet Utilisation et services. Votre utilisation sera affichée au haut du tableau de bord.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Data",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "View Usage",
+    "fr": "Voir utilisation",
+    "Link Value en": "https://www.rogers.com/web/totes/#/shareEverything",
+    "Link Value fr": "https://www.rogers.com/web/totes/#/shareEverything"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Talk",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Talk",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "1. Sign in to MyRogers.\n2. Go to the Usage & Services tab. \n3. Choose the line you want to view. Your talk, text and data usage will appear at the top the page.",
+    "fr": "1. Ouvrez une session dans MonRogers.\n2. Sélectionnez l’onglet Utilisation et services.\n3. Choisissez la ligne que vous souhaitez consulter. Votre utilisation de minutes, de textos et de données s’affichera au haut de la page.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Talk",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "View Voice Usage",
+    "fr": "Voir util. minutes",
+    "Link Value en": "www.rogers.com/signin",
+    "Link Value fr": "www.rogers.com/signin"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Text",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Text",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "1. Sign in to MyRogers 2. Go to the Usage & Services tab and select Wireless Share Everything 3. Choose the line you want to view 4. Select Talk/Text Usage in the My Wireless Package section to see your usage and additional information",
+    "fr": "1. Ouvrez une session dans MonRogers.\n2. Sélectionnez l’onglet Utilisation et services.\n3. Choisissez la ligne que vous souhaitez consulter. Votre utilisation de minutes, de textos et de données s’affichera au haut de la page.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Text",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "View SMS Usage",
+    "fr": "Voir util. textos",
+    "Link Value en": "www.rogers.com/signin",
+    "Link Value fr": "www.rogers.com/signin"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Plan Details",
+    "UniqueId": "VA_Chat_Bubble4",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Plan Details",
+    "UniqueId": "VA_Chat_Bubble4_Response1",
+    "Type": "Message",
+    "en": "Are you looking to see the details of your data, wireless, or home internet plan?",
+    "fr": "Cherchez-vous les détails de votre forfait données, sans-fil ou Internet résidentiel?",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Plan Details",
+    "UniqueId": "VA_Chat_Bubble4_Response2",
+    "Type": "Option",
+    "en": "Data",
+    "fr": "Données",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Plan Details",
+    "UniqueId": "VA_Chat_Bubble4_Response3",
+    "Type": "Option",
+    "en": "Wireless",
+    "fr": "Sans-fil",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Plan Details",
+    "UniqueId": "VA_Chat_Bubble4_Response4",
+    "Type": "Option",
+    "en": "Home Internet",
+    "fr": "Internet résidentiel",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Data",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Data",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "To see how much data is included in your wireless plan, sign in to MyRogers, select the Usage & Services tab and the line you want to view. There, you'll find your plan details, including how much data is included as well as any data top-ups you've added.",
+    "fr": "Pour voir le volume de données compris dans votre forfait sans-fil, ouvrez une session dans MonRogers, sélectionnez l’onglet Utilisation et services et la ligne que vous voulez consulter. Vous trouverez alors les détails du forfait, comme les données incluses et les réapprovisionnements effectués.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Data",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "See data plan",
+    "fr": "Voir forfait Données",
+    "Link Value en": "https://www.rogers.com/web/totes/#/shareEverything",
+    "Link Value fr": "https://www.rogers.com/web/totes/#/shareEverything"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Wireless",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Wireless",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "Your wireless bill includes a summary of talk, text and data usage, and any applicable overage, roaming, and other charges. It also includes call details like the date, time, number called, and more.\n\nTo view your bill, sign in to MyRogers and select the Billing & Payments tab.",
+    "fr": "Votre facture contient des détails sur l’utilisation des minutes, textos, et données; les frais d’utilisation excédentaire, d’itinérance, etc.; et les détails des appels dont la date, l’heure, le numéro appelé, etc.. Pour la consulter, accédez à MonRogers, puis cliquez sur Facturation et paiement.",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Wireless",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "View bill",
+    "fr": "Voir facture",
+    "Link Value en": "https://www.rogers.com/web/totes/#/viewbill",
+    "Link Value fr": "https://www.rogers.com/web/totes/#/viewbill"
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5_Response1",
+    "Type": "Message",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "Home Internet",
+    "UniqueId": "VA_Chat_Bubble5_Response2",
+    "Type": "Link",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  },
+  {
+    "UniqueKey": "",
+    "Intent": "",
+    "UniqueId": "",
+    "Type": "",
+    "en": "",
+    "fr": "",
+    "Link Value en": "",
+    "Link Value fr": ""
+  }
+]

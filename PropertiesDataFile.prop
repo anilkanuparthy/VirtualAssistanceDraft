@@ -1,0 +1,4 @@
+url = https://dev01-chat.rogers.com
+PropPath = new File("").getAbsolutePath()+File.separator+"DataSource"+File.separator+"PropertiesDataFile.prop"
+JsonFilePath = new File("").getAbsolutePath()+File.separator+"DataSource"+File.separator+"copydeck.json"
+Language = en
